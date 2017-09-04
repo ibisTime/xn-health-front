@@ -21,7 +21,7 @@ define([
 	
 	function getUrl(t){
 		Ajax.get("807715",{
-			"type":"1",
+			"type":"3",
 		    "start": "1",
 		    "limit": "20",
 			"systemCode":SYSTEM_CODE,
